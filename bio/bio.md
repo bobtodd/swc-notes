@@ -1,0 +1,3 @@
+# Bio for Software Carpentry & Data Carpentry
+
+Todd Krause works in the Linguistics Research Center at the University of Texas at Austin and specializes in the traditional and computational study of ancient languages.  He inadvertently obtained a Ph.D. in plasma physics and worked for a time in numerical relativity.  Though he steadfastly remains ill-informed on a wide range of topics, he maintains a passion for translating technical mumbo jumbo into ideas and tools anyone can use to make life just a little easier and a bit more fun.
